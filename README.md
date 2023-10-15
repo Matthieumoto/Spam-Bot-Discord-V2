@@ -6,7 +6,7 @@ Le Spam Bot Python V2 est une application qui vous permet d'envoyer des messages
 ## Utilisation
 1. Assurez-vous d'avoir Python (de préférence Python 3.10 ou supérieur) installé sur votre ordinateur.
 
-2. Exécutez le fichier `fenetre.py` en utilisant Python. Une fenêtre s'ouvrira.
+2. Exécutez le fichier `fenetre.exe` ou `fenetre.py` en utilisant Python. Une fenêtre s'ouvrira.
 
 3. Dans la fenêtre principale, entrez le message que vous souhaitez envoyer dans le champ "Choix message".
 
